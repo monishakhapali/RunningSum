@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.exe
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.deps.json
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.dll
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\bin\Debug\netcoreapp3.1\RunningSum.pdb
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.dll
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.pdb
+C:\Users\monisha.khapali\source\repos\RunningSum\RunningSum\obj\Debug\netcoreapp3.1\RunningSum.genruntimeconfig.cache
